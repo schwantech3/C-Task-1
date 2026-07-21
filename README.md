@@ -1,4 +1,4 @@
-# C-Task-1
+# Task-1 For Loop
 
 Logic in one sentence:
 The loop starts from 1, adds each number to sum one by one, increments i after every iteration, and stops when all numbers from 1 to n have been added.
