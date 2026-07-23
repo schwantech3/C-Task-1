@@ -70,3 +70,39 @@ Go back to check condition
 Print factorial
    │
 End
+
+# Task - 3 Do While Loop
+
+| Iteration | i | fact = fact × i | New fact |
+| --------- | - | --------------- | -------- |
+| 1         | 1 | 1 × 1           | 1        |
+| 2         | 2 | 1 × 2           | 2        |
+| 3         | 3 | 2 × 3           | 6        |
+| 4         | 4 | 6 × 4           | 24       |
+| 5         | 5 | 24 × 5          | 120      |
+
+
+Start
+   │
+Read n
+   │
+Initialize i = 1, fact = 1
+   │
+Execute do block
+   │
+fact = fact × i
+   │
+i = i + 1
+   │
+Is i ≤ n?
+   │
+ Yes ───────► Repeat do block
+   │
+ No
+   │
+Print Factorial
+   │
+  End
+
+
+
